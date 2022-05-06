@@ -18,8 +18,8 @@ To create the first seasonSummary.csv file the function, we call the end_season_
 
 Similairly, the playerStats.csv uses the fb_big5_advanced_season_stats function and loops over all the past 10 seasons.
 
--More documentation is available inside the demo.Rmd file
--The demo.Rmd file contains a "work in progress" section that will be used to find the cosine similarities between the best players found in the playerStats.csv
+- More documentation is available inside the demo.Rmd file
+- The demo.Rmd file contains a "work in progress" section that will be used to find the cosine similarities between the best players found in the playerStats.csv
 - This section is not part of the project submission or the app 
 
 
