@@ -1,0 +1,144 @@
+---
+title: "demo"
+author: "Atanas Damianov"
+date: "3/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+devtools::install_github("JaseZiv/worldfootballR")
+library(worldfootballR)
+library(tidyverse)
+library(ggplot2)
+library(stringr)
+library(patchwork)
+library(lubridate)
+library(dplyr)
+library(tidyr)
+library(ggrepel)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+
+end_season_summary <- get_season_team_stats(country = "ENG", gender = "M", season_end_year = c(2010:2021), stat_type = "league_table", tier = '1st')
+
+#scrapes the last 11 seasons and puts them into a data frame
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+
+```{r}
+
+fb_top5_2010 <- fb_big5_advanced_season_stats(season_end_year=2010,stat_type="standard", team_or_player="player")
+fb_top5_2018 <- fb_big5_advanced_season_stats(season_end_year=2018,stat_type="standard", team_or_player="player")
+
+#Data frames prior to 2018 contain less columns
+#Initialize 2 dataframes to bind new ones onto
+
+
+for(n in 2019:2021){
+  fb_top5 <- fb_big5_advanced_season_stats(season_end_year= n,stat_type="standard", team_or_player="player")
+  fb_top5_2018 <- fb_top5_2018 %>% rbind(fb_top5)
+}
+#First for loop binds the the seasons between 2019-2021 onto the 2018 df
+
+for (m in 2011:2017) {
+  fb_top5_2 <- fb_big5_advanced_season_stats(season_end_year= m,stat_type="standard", team_or_player="player")
+  fb_top5_2010 <- fb_top5_2010 %>% rbind(fb_top5_2)
+}
+#Second for loop binds the the seasons between 2011-2027 onto the 2010 df
+
+fb_top5_2018 <- fb_top5_2018[ -c(25:33) ]
+LeaguePlayerSummary<-fb_top5_2010 %>% rbind(fb_top5_2018)
+
+
+#The resulting df has around 30,000 observations, most of which are never used 
+LeaguePlayerSummary<- LeaguePlayerSummary %>% slice_max(Gls, n = 2500) 
+LeaguePlayerSummary<- LeaguePlayerSummary %>% slice_max(Ast, n = 2500) 
+LeaguePlayerSummary<- LeaguePlayerSummary %>% unique()
+
+write_csv(LeaguePlayerSummary,"PlayerStats.csv")
+```
+
+```{r}
+#Work in progress, not part of the app
+
+messi<- fb_player_scouting_report(player_url = "https://fbref.com/en/players/d70ce98e/Lionel-Messi",
+  pos_versus = "primary") %>%
+  filter(str_detect(StatGroup, "Standard")) %>%
+  filter(!str_detect(scouting_period, "Last 365 Days"))
+
+messi<-data.frame(lapply(messi, function(x){
+  gsub("Ligue 1","",x)
+}))
+
+messi<-data.frame(lapply(messi, function(x){
+  gsub("Serie A","",x)
+}))
+
+together<-data.frame(lapply(messi, function(x){
+  gsub("Premier League","",x)
+}))
+
+together<-data.frame(lapply(together, function(x){
+  gsub("Ligue 1","",x)
+}))
+
+messi<-data.frame(lapply(messi, function(x){
+  gsub("La Liga","",x)
+}))
+
+messi<-data.frame(lapply(messi, function(x){
+  gsub("[0-9]{4}-","",x)
+}))
+
+
+for (m in 1:length(LeaguePlayerSummary)) {
+  
+  player <-fb_player_scouting_report(player_url = LeaguePlayerSummary$Url[m],
+  pos_versus = "primary") %>%
+  filter(str_detect(StatGroup, "Standard")) %>%
+  filter(!str_detect(scouting_period, "Last 365 Days"))
+  
+  player<-data.frame(lapply(player, function(x){
+  gsub("Ligue 1","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("Serie A","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("Premier League","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("Ligue 1","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("La Liga","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("Bundesliga","",x)
+}))
+
+player<-data.frame(lapply(player, function(x){
+  gsub("[0-9]{4}-","",x)
+}))
+
+}
+```
+
