@@ -1,0 +1,241 @@
+Competition_Name,Gender,Country,Season_End_Year,Squad,Team_or_Opponent,Rk,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top.Team.Scorer,Goalkeeper,Notes,xG,xGA,xGD,xGD.90
+Premier League,M,ENG,2010,Arsenal,team,3,38,23,6,9,83,41,42,75,59927,Cesc Fàbregas - 15,Manuel Almunia,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2010,Aston Villa,team,6,38,17,13,8,52,39,13,64,38573,Gabby Agbonlahor - 13,Brad Friedel,→ UEFA Europa League via league finish 1,NA,NA,NA,NA
+Premier League,M,ENG,2010,Birmingham City,team,9,38,13,11,14,38,47,-9,50,25246,Cameron Jerome - 10,Joe Hart,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Blackburn,team,10,38,13,11,14,41,55,-14,50,25428,David Dunn - 9,Paul Robinson,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Bolton,team,14,38,10,9,19,42,67,-25,39,22200,"Ivan Klasnić, Matthew Taylor - 8",Jussi Jääskeläinen,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Burnley,team,18,38,8,6,24,42,82,-40,30,20654,Steven Fletcher - 8,Brian Jensen,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2010,Chelsea,team,1,38,27,5,6,103,32,71,86,41423,Didier Drogba - 29,Petr Čech,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2010,Everton,team,8,38,16,13,9,60,49,11,61,36725,Louis Saha - 13,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Fulham,team,12,38,12,10,16,39,46,-7,46,23909,Bobby Zamora - 8,Mark Schwarzer,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Hull City,team,19,38,6,12,20,34,75,-41,30,24390,Stephen Hunt - 6,Boaz Myhill,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2010,Liverpool,team,7,38,18,9,11,61,35,26,63,42864,Fernando Torres - 18,Pepe Reina,→ UEFA Europa League via league finish 2,NA,NA,NA,NA
+Premier League,M,ENG,2010,Manchester City,team,5,38,18,13,7,73,45,28,67,45470,Carlos Tevez - 23,Shay Given,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2010,Manchester Utd,team,2,38,27,4,7,86,28,58,85,74864,Wayne Rooney - 26,Edwin van der Sar,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2010,Portsmouth,team,20,38,7,7,24,34,66,-32,19,18249,Aruna Dindane - 8,David James,"9-point deduction 3, Relegated",NA,NA,NA,NA
+Premier League,M,ENG,2010,Stoke City,team,11,38,11,14,13,34,48,-14,47,27162,Matthew Etherington - 5,Thomas Sørensen,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Sunderland,team,13,38,11,11,16,48,56,-8,44,38337,Darren Bent - 24,Craig Gordon,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Tottenham,team,4,38,21,7,10,67,41,26,70,35794,Jermain Defoe - 18,Heurelho Gomes,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2010,West Ham,team,17,38,8,11,19,47,66,-19,35,33683,Carlton Cole - 10,Robert Green,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Wigan Athletic,team,16,38,9,9,20,37,79,-42,36,18006,Hugo Rodallega - 10,Chris Kirkland,,NA,NA,NA,NA
+Premier League,M,ENG,2010,Wolves,team,15,38,9,11,18,32,56,-24,38,28366,Kevin Doyle - 9,Marcus Hahnemann,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Arsenal,team,4,38,19,11,8,72,43,29,68,60025,Robin van Persie - 18,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2011,Aston Villa,team,9,38,12,12,14,48,59,-11,48,37194,Darren Bent - 9,Brad Friedel,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Birmingham City,team,18,38,8,15,15,37,58,-21,39,25462,Craig Gardner - 8,Ben Foster,"Relegated, → UEFA Europa League via cup win",NA,NA,NA,NA
+Premier League,M,ENG,2011,Blackburn,team,15,38,11,10,17,46,59,-13,43,25000,"Junior Hoilett, Jason Roberts... - 5",Paul Robinson,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Blackpool,team,19,38,10,9,19,55,78,-23,39,15775,DJ Campbell - 13,Richard Kingson,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2011,Bolton,team,14,38,12,10,16,52,56,-4,46,22870,Johan Elmander - 10,Jussi Jääskeläinen,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Chelsea,team,2,38,21,8,9,69,33,36,71,41435,Florent Malouda - 13,Petr Čech,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2011,Everton,team,7,38,13,15,10,51,45,6,54,36039,Tim Cahill - 9,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Fulham,team,8,38,11,16,11,49,43,6,49,25043,Clint Dempsey - 12,Mark Schwarzer,→ UEFA Europa League 1,NA,NA,NA,NA
+Premier League,M,ENG,2011,Liverpool,team,6,38,17,7,14,59,44,15,58,42820,Dirk Kuyt - 13,Pepe Reina,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Manchester City,team,3,38,21,8,9,60,33,27,71,45905,Carlos Tevez - 20,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2011,Manchester Utd,team,1,38,23,11,4,78,37,41,80,75109,Dimitar Berbatov - 20,Edwin van der Sar,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2011,Newcastle Utd,team,12,38,11,13,14,56,57,-1,46,47718,Kevin Nolan - 12,Tim Krul,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Stoke City,team,13,38,13,7,18,46,48,-2,46,26858,Kenwyne Jones - 9,Asmir Begović,→ UEFA Europa League via cup loss 2,NA,NA,NA,NA
+Premier League,M,ENG,2011,Sunderland,team,10,38,12,11,15,45,56,-11,47,40011,Asamoah Gyan - 10,Simon Mignolet,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Tottenham,team,5,38,16,14,8,55,46,9,62,35704,Rafael van der Vaart - 13,Heurelho Gomes,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2011,West Brom,team,11,38,12,11,15,56,71,-15,47,24683,Peter Odemwingie - 15,Scott Carson,,NA,NA,NA,NA
+Premier League,M,ENG,2011,West Ham,team,20,38,7,12,19,43,70,-27,33,33492,Demba Ba - 7,Robert Green,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2011,Wigan Athletic,team,16,38,9,15,14,40,61,-21,42,16812,"Charles N'Zogbia, Hugo Rodallega - 9",Ali Al-Habsi,,NA,NA,NA,NA
+Premier League,M,ENG,2011,Wolves,team,17,38,11,7,20,46,66,-20,40,27925,Steven Fletcher - 10,Wayne Hennessey,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Arsenal,team,3,38,21,7,10,74,49,25,70,60000,Robin van Persie - 30,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2012,Aston Villa,team,16,38,7,17,14,37,53,-16,38,33883,Darren Bent - 9,Shay Given,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Blackburn,team,19,38,8,7,23,48,78,-30,31,22551,Yakubu Aiyegbeni - 17,Paul Robinson,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2012,Bolton,team,18,38,10,6,22,46,77,-31,36,23670,Ivan Klasnić - 8,Ádám Bogdán,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2012,Chelsea,team,6,38,18,10,10,65,46,19,64,41484,"Daniel Sturridge, Frank Lampard - 11",Petr Čech,→ UEFA Champions League via Champions League win,NA,NA,NA,NA
+Premier League,M,ENG,2012,Everton,team,7,38,15,11,12,50,40,10,56,33228,Nikica Jelavić - 9,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Fulham,team,9,38,14,10,14,48,51,-3,52,25399,Clint Dempsey - 17,Mark Schwarzer,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Liverpool,team,8,38,14,10,14,47,40,7,52,44253,Luis Suárez - 11,Pepe Reina,→ UEFA Europa League via cup win 1,NA,NA,NA,NA
+Premier League,M,ENG,2012,Manchester City,team,1,38,28,5,5,93,29,64,89,47045,Sergio Agüero - 23,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2012,Manchester Utd,team,2,38,28,5,5,89,33,56,89,75387,Wayne Rooney - 27,David de Gea,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2012,Newcastle Utd,team,5,38,19,8,11,56,51,5,65,49951,Demba Ba - 16,Tim Krul,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2012,Norwich City,team,12,38,12,11,15,52,66,-14,47,26606,Grant Holt - 15,John Ruddy,,NA,NA,NA,NA
+Premier League,M,ENG,2012,QPR,team,17,38,10,7,21,43,66,-23,37,17295,Heiðar Helguson - 8,Paddy Kenny,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Stoke City,team,14,38,11,12,15,36,53,-17,45,27226,Peter Crouch - 10,Asmir Begović,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Sunderland,team,13,38,11,12,15,45,46,-1,45,39047,Nicklas Bendtner - 8,Simon Mignolet,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Swansea City,team,11,38,12,11,15,44,51,-7,47,19946,Danny Graham - 12,Michel Vorm,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Tottenham,team,4,38,20,9,9,66,41,25,69,36036,Emmanuel Adebayor - 17,Brad Friedel,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2012,West Brom,team,10,38,13,8,17,45,52,-7,47,24770,Peter Odemwingie - 10,Ben Foster,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Wigan Athletic,team,15,38,11,10,17,42,62,-20,43,18634,Franco Di Santo - 7,Ali Al-Habsi,,NA,NA,NA,NA
+Premier League,M,ENG,2012,Wolves,team,20,38,5,10,23,40,82,-42,25,25677,Steven Fletcher - 12,Wayne Hennessey,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2013,Arsenal,team,4,38,21,10,7,72,37,35,73,60079,Theo Walcott - 14,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2013,Aston Villa,team,15,38,10,11,17,47,69,-22,41,35060,Christian Benteke - 19,Brad Guzan,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Chelsea,team,3,38,22,9,7,75,39,36,75,41462,Frank Lampard - 15,Petr Čech,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2013,Everton,team,6,38,16,15,7,55,40,15,63,36356,Marouane Fellaini - 11,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Fulham,team,12,38,11,10,17,50,60,-10,43,25423,Dimitar Berbatov - 15,Mark Schwarzer,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Liverpool,team,7,38,16,13,9,71,43,28,61,44749,Luis Suárez - 23,Pepe Reina,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Manchester City,team,2,38,23,9,6,66,34,32,78,46974,Edin Džeko - 14,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2013,Manchester Utd,team,1,38,28,5,5,86,43,43,89,75530,Robin van Persie - 26,David de Gea,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2013,Newcastle Utd,team,16,38,11,8,19,45,68,-23,41,50517,Demba Ba - 13,Tim Krul,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Norwich City,team,11,38,10,14,14,41,58,-17,44,26672,Grant Holt - 8,Mark Bunn,,NA,NA,NA,NA
+Premier League,M,ENG,2013,QPR,team,20,38,4,13,21,30,60,-30,25,17779,Loïc Rémy - 6,Júlio César,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2013,Reading,team,19,38,6,10,22,43,73,-30,28,23862,Adam le Fondre - 12,Adam Federici,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2013,Southampton,team,14,38,9,14,15,49,60,-11,41,30855,Rickie Lambert - 15,Artur Boruc,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Stoke City,team,13,38,9,15,14,34,45,-11,42,26722,Jonathan Walters - 8,Asmir Begović,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Sunderland,team,17,38,9,12,17,41,54,-13,39,40563,Steven Fletcher - 11,Simon Mignolet,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Swansea City,team,9,38,11,13,14,47,51,-4,46,20476,Michu - 18,Michel Vorm,→ UEFA Europa League via cup win 1,NA,NA,NA,NA
+Premier League,M,ENG,2013,Tottenham,team,5,38,21,9,8,66,46,20,72,36066,Gareth Bale - 21,Hugo Lloris,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2013,West Brom,team,8,38,14,7,17,53,57,-4,49,25202,Romelu Lukaku - 17,Ben Foster,,NA,NA,NA,NA
+Premier League,M,ENG,2013,West Ham,team,10,38,12,10,16,45,53,-8,46,34717,Kevin Nolan - 10,Jussi Jääskeläinen,,NA,NA,NA,NA
+Premier League,M,ENG,2013,Wigan Athletic,team,18,38,9,9,20,47,73,-26,36,19359,Arouna Koné - 11,Ali Al-Habsi,"Relegated, → UEFA Europa League via cup win 2",NA,NA,NA,NA
+Premier League,M,ENG,2014,Arsenal,team,4,38,24,7,7,68,41,27,79,60013,Olivier Giroud - 16,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2014,Aston Villa,team,15,38,10,8,20,39,61,-22,38,36081,Christian Benteke - 10,Brad Guzan,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Cardiff City,team,20,38,7,9,22,32,74,-42,30,27430,Jordon Mutch - 7,David Marshall,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2014,Chelsea,team,3,38,25,7,6,71,27,44,82,41482,Eden Hazard - 14,Petr Čech,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2014,Crystal Palace,team,11,38,13,6,19,33,48,-15,45,24375,"Dwight Gayle, Jason Puncheon - 7",Julián Speroni,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Everton,team,5,38,21,9,8,61,39,22,72,37732,Romelu Lukaku - 15,Tim Howard,→ UEFA Europa League via league finish 1,NA,NA,NA,NA
+Premier League,M,ENG,2014,Fulham,team,19,38,9,5,24,40,85,-45,32,24977,Steve Sidwell - 7,David Stockdale,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2014,Hull City,team,16,38,10,7,21,38,53,-15,37,24117,Nikica Jelavić - 5,Allan McGregor,→ UEFA Europa League via cup loss 2,NA,NA,NA,NA
+Premier League,M,ENG,2014,Liverpool,team,2,38,26,6,6,101,50,51,84,44671,Luis Suárez - 31,Simon Mignolet,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2014,Manchester City,team,1,38,27,5,6,102,37,65,86,47075,Yaya Touré - 20,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2014,Manchester Utd,team,7,38,19,7,12,64,43,21,64,75207,Wayne Rooney - 17,David de Gea,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Newcastle Utd,team,10,38,15,4,19,43,59,-16,49,50395,Loïc Rémy - 14,Tim Krul,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Norwich City,team,18,38,8,9,21,28,62,-34,33,26805,"Robert Snodgrass, Gary Hooper - 6",John Ruddy,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2014,Southampton,team,8,38,15,11,12,54,46,8,56,30212,Jay Rodriguez - 15,Artur Boruc,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Stoke City,team,9,38,13,11,14,45,52,-7,50,26137,"Peter Crouch, Charlie Adam - 8",Asmir Begović,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Sunderland,team,14,38,10,8,20,41,60,-19,38,41090,Adam Johnson - 8,Vito Mannone,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Swansea City,team,12,38,11,9,18,54,54,0,42,20407,Wilfried Bony - 16,Michel Vorm,,NA,NA,NA,NA
+Premier League,M,ENG,2014,Tottenham,team,6,38,21,6,11,55,51,4,69,35808,Emmanuel Adebayor - 11,Hugo Lloris,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2014,West Brom,team,17,38,7,15,16,43,59,-16,36,25194,"Saido Berahino, Stéphane Sessègnon - 5",Ben Foster,,NA,NA,NA,NA
+Premier League,M,ENG,2014,West Ham,team,13,38,11,7,20,40,51,-11,40,34197,Kevin Nolan - 7,Adrián,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Arsenal,team,3,38,22,9,7,71,36,35,75,59992,Alexis Sánchez - 16,David Ospina,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2015,Aston Villa,team,17,38,10,8,20,31,57,-26,38,34133,Christian Benteke - 13,Brad Guzan,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Burnley,team,19,38,7,12,19,28,53,-25,33,19131,Danny Ings - 11,Tom Heaton,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2015,Chelsea,team,1,38,26,9,3,73,32,41,87,41546,Diego Costa - 20,Thibaut Courtois,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2015,Crystal Palace,team,10,38,13,9,16,47,51,-4,48,24421,Glenn Murray - 7,Julián Speroni,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Everton,team,11,38,12,11,15,48,50,-2,47,37406,Romelu Lukaku - 10,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Hull City,team,18,38,8,11,19,33,51,-18,35,23557,Nikica Jelavić - 8,Allan McGregor,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2015,Leicester City,team,14,38,11,8,19,46,55,-9,41,31693,Leonardo Ulloa - 11,Kasper Schmeichel,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Liverpool,team,6,38,18,8,12,52,48,4,62,44659,Steven Gerrard - 9,Simon Mignolet,→ UEFA Europa League via league finish 1,NA,NA,NA,NA
+Premier League,M,ENG,2015,Manchester City,team,2,38,24,7,7,83,38,45,79,45365,Sergio Agüero - 26,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2015,Manchester Utd,team,4,38,20,10,8,62,37,25,70,75335,Wayne Rooney - 12,David de Gea,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2015,Newcastle Utd,team,15,38,10,9,19,40,63,-23,39,50359,Papiss Cissé - 11,Tim Krul,,NA,NA,NA,NA
+Premier League,M,ENG,2015,QPR,team,20,38,8,6,24,42,73,-31,30,17809,Charlie Austin - 18,Robert Green,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2015,Southampton,team,7,38,18,6,14,54,33,21,60,30741,Graziano Pellè - 12,Fraser Forster,→ UEFA Europa League via league finish 2,NA,NA,NA,NA
+Premier League,M,ENG,2015,Stoke City,team,9,38,15,9,14,48,45,3,54,27081,Mame Biram Diouf - 11,Asmir Begović,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Sunderland,team,16,38,7,17,14,31,53,-22,38,43157,"Steven Fletcher, Connor Wickham - 5",Costel Pantilimon,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Swansea City,team,8,38,16,8,14,46,49,-3,56,20555,Wilfried Bony - 9,Łukasz Fabiański,,NA,NA,NA,NA
+Premier League,M,ENG,2015,Tottenham,team,5,38,19,7,12,58,53,5,64,35728,Harry Kane - 21,Hugo Lloris,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2015,West Brom,team,13,38,11,11,16,38,51,-13,44,25064,Saido Berahino - 14,Ben Foster,,NA,NA,NA,NA
+Premier League,M,ENG,2015,West Ham,team,12,38,12,11,15,44,47,-3,47,34846,Diafra Sakho - 10,Adrián,→ UEFA Europa League 3,NA,NA,NA,NA
+Premier League,M,ENG,2016,Arsenal,team,2,38,20,11,7,65,36,29,71,59944,Olivier Giroud - 16,Petr Čech,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2016,Aston Villa,team,20,38,3,8,27,27,76,-49,17,33690,Jordan Ayew - 7,Brad Guzan,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2016,Bournemouth,team,16,38,11,9,18,45,67,-22,42,11189,Joshua King - 6,Artur Boruc,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Chelsea,team,10,38,12,14,12,59,53,6,50,41500,Diego Costa - 12,Thibaut Courtois,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Crystal Palace,team,15,38,11,9,18,39,51,-12,42,24825,"Connor Wickham, Scott Dann... - 5",Wayne Hennessey,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Everton,team,11,38,11,14,13,59,55,4,47,38124,Romelu Lukaku - 18,Tim Howard,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Leicester City,team,1,38,23,12,3,68,36,32,81,31998,Jamie Vardy - 24,Kasper Schmeichel,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2016,Liverpool,team,8,38,16,12,10,63,50,13,60,43910,Roberto Firmino - 10,Simon Mignolet,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Manchester City,team,4,38,19,9,10,71,41,30,66,54041,Sergio Agüero - 24,Joe Hart,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2016,Manchester Utd,team,5,38,19,9,10,49,35,14,66,75286,Anthony Martial - 11,David de Gea,→ UEFA Europa League via cup win 1,NA,NA,NA,NA
+Premier League,M,ENG,2016,Newcastle Utd,team,18,38,9,10,19,44,65,-21,37,49754,Georginio Wijnaldum - 11,Rob Elliot,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2016,Norwich City,team,19,38,9,7,22,39,67,-28,34,26972,Dieumerci Mbokani - 7,John Ruddy,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2016,Southampton,team,6,38,18,9,11,59,41,18,63,30751,"Graziano Pellè, Sadio Mané - 11",Fraser Forster,→ UEFA Europa League via league finish 2,NA,NA,NA,NA
+Premier League,M,ENG,2016,Stoke City,team,9,38,14,9,15,41,55,-14,51,27534,Marko Arnautović - 11,Jack Butland,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Sunderland,team,17,38,9,12,17,48,62,-14,39,43071,Jermain Defoe - 15,Vito Mannone,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Swansea City,team,12,38,12,11,15,42,52,-10,47,20711,André Ayew - 12,Łukasz Fabiański,,NA,NA,NA,NA
+Premier League,M,ENG,2016,Tottenham,team,3,38,19,13,6,69,35,34,70,35776,Harry Kane - 25,Hugo Lloris,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2016,Watford,team,13,38,12,9,17,40,50,-10,45,20594,Odion Ighalo - 15,Heurelho Gomes,,NA,NA,NA,NA
+Premier League,M,ENG,2016,West Brom,team,14,38,10,13,15,34,48,-14,43,24631,Salomón Rondón - 9,Boaz Myhill,,NA,NA,NA,NA
+Premier League,M,ENG,2016,West Ham,team,7,38,16,14,8,65,51,14,62,34910,"Dimitri Payet, Andy Carroll - 9",Adrián,→ UEFA Europa League via league finish 3,NA,NA,NA,NA
+Premier League,M,ENG,2017,Arsenal,team,5,38,23,6,9,77,44,33,75,59957,Alexis Sánchez - 24,Petr Čech,→ UEFA Europa League via cup win 1,NA,NA,NA,NA
+Premier League,M,ENG,2017,Bournemouth,team,9,38,12,10,16,55,67,-12,46,11182,Joshua King - 16,Artur Boruc,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Burnley,team,16,38,11,7,20,39,55,-16,40,20558,Sam Vokes - 10,Tom Heaton,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Chelsea,team,1,38,30,3,5,85,33,52,93,41508,Diego Costa - 20,Thibaut Courtois,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2017,Crystal Palace,team,14,38,12,5,21,50,63,-13,41,25161,Christian Benteke - 15,Wayne Hennessey,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Everton,team,7,38,17,10,11,62,44,18,61,39047,Romelu Lukaku - 25,Joel Robles,→ UEFA Europa League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2017,Hull City,team,18,38,9,7,22,37,80,-43,34,20761,Robert Snodgrass - 7,Eldin Jakupović,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2017,Leicester City,team,12,38,12,8,18,48,63,-15,44,31893,Jamie Vardy - 13,Kasper Schmeichel,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Liverpool,team,4,38,22,10,6,78,42,36,76,53016,"Philippe Coutinho, Sadio Mané - 13",Simon Mignolet,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2017,Manchester City,team,3,38,23,9,6,80,39,41,78,54019,Sergio Agüero - 20,Claudio Bravo,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2017,Manchester Utd,team,6,38,18,15,5,54,29,25,69,75290,Zlatan Ibrahimović - 17,David de Gea,→ UEFA Champions League via Europa League win,NA,NA,NA,NA
+Premier League,M,ENG,2017,Middlesbrough,team,19,38,5,13,20,27,53,-26,28,30449,Álvaro Negredo - 9,Víctor Valdés,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2017,Southampton,team,8,38,12,10,16,41,48,-7,46,30936,Nathan Redmond - 7,Fraser Forster,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Stoke City,team,13,38,11,11,16,41,56,-15,44,27433,Peter Crouch - 7,Lee Grant,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Sunderland,team,20,38,6,6,26,29,69,-40,24,41287,Jermain Defoe - 15,Jordan Pickford,Relegated,NA,NA,NA,NA
+Premier League,M,ENG,2017,Swansea City,team,15,38,12,5,21,45,70,-25,41,20619,Fernando Llorente - 15,Łukasz Fabiański,,NA,NA,NA,NA
+Premier League,M,ENG,2017,Tottenham,team,2,38,26,8,4,86,26,60,86,31639,Harry Kane - 29,Hugo Lloris,→ UEFA Champions League via league finish,NA,NA,NA,NA
+Premier League,M,ENG,2017,Watford,team,17,38,11,7,20,40,68,-28,40,20571,Troy Deeney - 10,Heurelho Gomes,,NA,NA,NA,NA
+Premier League,M,ENG,2017,West Brom,team,10,38,12,9,17,43,51,-8,45,23876,Salomón Rondón - 8,Ben Foster,,NA,NA,NA,NA
+Premier League,M,ENG,2017,West Ham,team,11,38,12,9,17,47,64,-17,45,56972,Michail Antonio - 9,Darren Randolph,,NA,NA,NA,NA
+Premier League,M,ENG,2018,Arsenal,team,6,38,19,6,13,74,51,23,63,59323,Alexandre Lacazette - 14,Petr Čech,→ UEFA Europa League via league finish,68.4,50.5,17.9,0.47
+Premier League,M,ENG,2018,Bournemouth,team,12,38,11,11,16,45,61,-16,44,10641,"Joshua King, Callum Wilson - 8",Asmir Begović,,44.8,61.4,-16.6,-0.44
+Premier League,M,ENG,2018,Brighton,team,15,38,9,13,16,34,54,-20,40,30403,Glenn Murray - 12,Mathew Ryan,,37.2,52.6,-15.5,-0.41
+Premier League,M,ENG,2018,Burnley,team,7,38,14,12,12,36,39,-3,54,20688,Chris Wood - 10,Nick Pope,→ UEFA Europa League via league finish 2,34.5,51.8,-17.2,-0.45
+Premier League,M,ENG,2018,Chelsea,team,5,38,21,7,10,62,38,24,70,41282,Eden Hazard - 12,Thibaut Courtois,→ UEFA Europa League via cup win 1,57.9,35.3,22.7,0.6
+Premier League,M,ENG,2018,Crystal Palace,team,11,38,11,11,16,45,55,-10,44,25063,Luka Milivojević - 10,Wayne Hennessey,,56.1,50.6,5.5,0.14
+Premier League,M,ENG,2018,Everton,team,8,38,13,10,15,44,58,-14,49,38797,Wayne Rooney - 10,Jordan Pickford,,41.5,52.3,-10.9,-0.29
+Premier League,M,ENG,2018,Huddersfield,team,16,38,9,10,19,28,58,-30,37,24040,Steve Mounié - 7,Jonas Lössl,,31.7,55.2,-23.5,-0.62
+Premier League,M,ENG,2018,Leicester City,team,9,38,12,11,15,56,60,-4,47,31583,Jamie Vardy - 20,Kasper Schmeichel,,48.1,49.9,-1.8,-0.05
+Premier League,M,ENG,2018,Liverpool,team,4,38,21,12,5,84,38,46,75,53049,Mohamed Salah - 32,"Loris Karius, Simon Mignolet",→ UEFA Champions League via league finish,72.8,34,38.8,1.02
+Premier League,M,ENG,2018,Manchester City,team,1,38,32,4,2,106,27,79,100,54070,Sergio Agüero - 21,Ederson,→ UEFA Champions League via league finish,86.4,22.8,63.6,1.67
+Premier League,M,ENG,2018,Manchester Utd,team,2,38,25,6,7,68,28,40,81,74976,Romelu Lukaku - 16,David de Gea,→ UEFA Champions League via league finish,60.7,41.7,18.9,0.5
+Premier League,M,ENG,2018,Newcastle Utd,team,10,38,12,8,18,39,47,-8,44,51992,Ayoze Pérez - 8,Rob Elliot,,45.3,53.4,-8.1,-0.21
+Premier League,M,ENG,2018,Southampton,team,17,38,7,15,16,37,56,-19,36,30794,Charlie Austin - 7,Fraser Forster,,42.1,48.8,-6.7,-0.18
+Premier League,M,ENG,2018,Stoke City,team,19,38,7,12,19,35,68,-33,33,29280,Xherdan Shaqiri - 8,Jack Butland,Relegated,37.5,63.8,-26.2,-0.69
+Premier League,M,ENG,2018,Swansea City,team,18,38,8,9,21,28,56,-28,33,20623,Jordan Ayew - 7,Łukasz Fabiański,Relegated,30.5,59.5,-29,-0.76
+Premier League,M,ENG,2018,Tottenham,team,3,38,23,8,7,74,36,38,77,67953,Harry Kane - 30,Hugo Lloris,→ UEFA Champions League via league finish,67.3,35,32.3,0.85
+Premier League,M,ENG,2018,Watford,team,14,38,11,8,19,44,64,-20,41,20231,Abdoulaye Doucouré - 7,Heurelho Gomes,,47.4,57.9,-10.6,-0.28
+Premier League,M,ENG,2018,West Brom,team,20,38,6,13,19,31,56,-25,31,24520,"Jay Rodriguez, Salomón Rondón - 7",Ben Foster,Relegated,34.4,48.5,-14.1,-0.37
+Premier League,M,ENG,2018,West Ham,team,13,38,10,12,16,48,68,-20,42,56885,Marko Arnautović - 11,"Joe Hart, Adrián",,39.8,59.3,-19.4,-0.51
+Premier League,M,ENG,2019,Arsenal,team,5,38,21,7,10,73,51,22,70,59899,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ UEFA Europa League via league finish,59.1,53.8,5.3,0.14
+Premier League,M,ENG,2019,Bournemouth,team,14,38,13,6,19,56,70,-14,45,10532,Callum Wilson - 14,Asmir Begović,,54.4,55.9,-1.5,-0.04
+Premier League,M,ENG,2019,Brighton,team,17,38,9,9,20,35,60,-25,36,30426,Glenn Murray - 13,Mathew Ryan,,34.5,56.5,-22,-0.58
+Premier League,M,ENG,2019,Burnley,team,15,38,11,7,20,45,68,-23,40,20534,Ashley Barnes - 12,"Tom Heaton, Joe Hart",,41.1,63.7,-22.6,-0.59
+Premier League,M,ENG,2019,Cardiff City,team,18,38,10,4,24,34,69,-35,34,31408,"Bobby Reid, Víctor Camarasa - 5",Neil Etheridge,Relegated,39.5,62,-22.4,-0.59
+Premier League,M,ENG,2019,Chelsea,team,3,38,21,9,8,63,39,24,72,40437,Eden Hazard - 16,Kepa Arrizabalaga,→ UEFA Champions League via league finish,59.3,35.4,23.9,0.63
+Premier League,M,ENG,2019,Crystal Palace,team,12,38,14,7,17,51,53,-2,49,25455,Luka Milivojević - 12,Vicente Guaita,,50.7,49,1.7,0.05
+Premier League,M,ENG,2019,Everton,team,8,38,15,9,14,54,46,8,54,39043,"Gylfi Sigurðsson, Richarlison - 13",Jordan Pickford,,48.2,47.4,0.8,0.02
+Premier League,M,ENG,2019,Fulham,team,19,38,7,5,26,34,81,-47,26,24371,Aleksandar Mitrović - 11,Sergio Rico,Relegated,38.8,65.3,-26.5,-0.7
+Premier League,M,ENG,2019,Huddersfield,team,20,38,3,7,28,22,76,-54,16,23203,"Mathias Jørgensen, Aaron Mooy... - 3",Jonas Lössl,Relegated,28.9,63.4,-34.5,-0.91
+Premier League,M,ENG,2019,Leicester City,team,9,38,15,7,16,51,48,3,52,31851,Jamie Vardy - 18,Kasper Schmeichel,,49.6,45.5,4.1,0.11
+Premier League,M,ENG,2019,Liverpool,team,2,38,30,7,1,89,22,67,97,52983,"Sadio Mané, Mohamed Salah - 22",Alisson,→ UEFA Champions League via league finish,75.3,30.8,44.4,1.17
+Premier League,M,ENG,2019,Manchester City,team,1,38,32,2,4,95,23,72,98,54130,Sergio Agüero - 21,Ederson,→ UEFA Champions League via league finish,84.5,25.3,59.1,1.56
+Premier League,M,ENG,2019,Manchester Utd,team,6,38,19,9,10,65,54,11,66,74498,Paul Pogba - 13,David de Gea,→ UEFA Europa League via league finish 1,58.4,46.6,11.8,0.31
+Premier League,M,ENG,2019,Newcastle Utd,team,13,38,12,9,17,42,48,-6,45,51121,Ayoze Pérez - 12,Martin Dúbravka,,39.1,53.2,-14.1,-0.37
+Premier League,M,ENG,2019,Southampton,team,16,38,9,12,17,45,65,-20,39,30139,"Danny Ings, James Ward-Prowse - 7",Alex McCarthy,,47.2,55.4,-8.2,-0.22
+Premier League,M,ENG,2019,Tottenham,team,4,38,23,2,13,67,39,28,71,54216,Harry Kane - 17,Hugo Lloris,→ UEFA Champions League via league finish,58.3,45.4,12.8,0.34
+Premier League,M,ENG,2019,Watford,team,11,38,14,8,16,52,59,-7,50,20016,Gerard Deulofeu - 10,Ben Foster,,47.6,54.9,-7.3,-0.19
+Premier League,M,ENG,2019,West Ham,team,10,38,15,7,16,52,55,-3,52,58336,Marko Arnautović - 10,Łukasz Fabiański,,46.9,61.3,-14.4,-0.38
+Premier League,M,ENG,2019,Wolves,team,7,38,16,9,13,47,46,1,57,31030,Raúl Jiménez - 13,Rui Patrício,→ UEFA Europa League via league finish,48.7,39.2,9.5,0.25
+Premier League,M,ENG,2020,Arsenal,team,8,38,14,14,10,56,48,8,56,47589,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ UEFA Europa League via cup win 2,49.2,56.6,-7.3,-0.19
+Premier League,M,ENG,2020,Aston Villa,team,17,38,9,8,21,41,67,-26,35,28505,Jack Grealish - 8,Tom Heaton,,40.1,65.9,-25.8,-0.68
+Premier League,M,ENG,2020,Bournemouth,team,18,38,9,7,22,40,65,-25,34,7745,Callum Wilson - 8,Aaron Ramsdale,Relegated,42.7,57.5,-14.8,-0.39
+Premier League,M,ENG,2020,Brighton,team,15,38,9,14,15,39,54,-15,41,22369,Neal Maupay - 10,Mathew Ryan,,41.2,54.5,-13.3,-0.35
+Premier League,M,ENG,2020,Burnley,team,10,38,15,9,14,43,50,-7,54,15995,Chris Wood - 14,Nick Pope,,43.9,48.3,-4.4,-0.12
+Premier League,M,ENG,2020,Chelsea,team,4,38,20,6,12,69,54,15,66,32023,Tammy Abraham - 15,Kepa Arrizabalaga,→ UEFA Champions League via league finish,66.6,37.9,28.6,0.75
+Premier League,M,ENG,2020,Crystal Palace,team,14,38,11,10,17,31,50,-19,43,19784,Jordan Ayew - 9,Vicente Guaita,,34,51.3,-17.3,-0.46
+Premier League,M,ENG,2020,Everton,team,12,38,13,10,15,44,56,-12,49,28848,"Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,,49.3,48.4,0.9,0.02
+Premier League,M,ENG,2020,Leicester City,team,5,38,18,8,12,67,41,26,62,25312,Jamie Vardy - 23,Kasper Schmeichel,→ UEFA Europa League via league finish,61.6,44.5,17.1,0.45
+Premier League,M,ENG,2020,Liverpool,team,1,38,32,3,3,85,33,52,99,41955,Mohamed Salah - 19,Alisson,→ UEFA Champions League via league finish,71.5,40,31.5,0.83
+Premier League,M,ENG,2020,Manchester City,team,2,38,26,3,9,102,35,67,81,37097,Raheem Sterling - 20,Ederson,→ UEFA Champions League via league finish,93,34.7,58.3,1.53
+Premier League,M,ENG,2020,Manchester Utd,team,3,38,18,12,8,66,36,30,66,57415,"Anthony Martial, Marcus Rashford - 17",David de Gea,→ UEFA Champions League via league finish,59.4,37.4,22,0.58
+Premier League,M,ENG,2020,Newcastle Utd,team,13,38,11,11,16,38,58,-20,44,35551,Jonjo Shelvey - 6,Martin Dúbravka,,33.1,58.3,-25.2,-0.66
+Premier League,M,ENG,2020,Norwich City,team,20,38,5,6,27,26,75,-49,21,19913,Teemu Pukki - 11,Tim Krul,Relegated,38,61.9,-23.9,-0.63
+Premier League,M,ENG,2020,Sheffield Utd,team,9,38,14,12,12,39,39,0,54,24370,"Oliver McBurnie, Lys Mousset - 6",Dean Henderson,,41.5,47.9,-6.4,-0.17
+Premier League,M,ENG,2020,Southampton,team,11,38,15,7,16,51,60,-9,52,23428,Danny Ings - 22,Alex McCarthy,,54,53.1,0.9,0.02
+Premier League,M,ENG,2020,Tottenham,team,6,38,16,11,11,61,47,14,59,43757,Harry Kane - 18,Hugo Lloris,→ UEFA Europa League via league finish 1,46.1,52,-6,-0.16
+Premier League,M,ENG,2020,Watford,team,19,38,8,10,20,36,64,-28,34,15353,Troy Deeney - 10,Ben Foster,Relegated,45.1,57.3,-12.2,-0.32
+Premier League,M,ENG,2020,West Ham,team,16,38,10,9,19,49,62,-13,39,44155,Michail Antonio - 10,Łukasz Fabiański,,46.2,61.1,-14.8,-0.39
+Premier League,M,ENG,2020,Wolves,team,7,38,15,14,9,51,40,11,59,24758,Raúl Jiménez - 17,Rui Patrício,,47.1,34.8,12.3,0.32
+Premier League,M,ENG,2021,Arsenal,team,8,38,18,7,13,55,39,16,61,632,Alexandre Lacazette - 13,Bernd Leno,,53.5,44.3,9.2,0.24
+Premier League,M,ENG,2021,Aston Villa,team,11,38,16,7,15,55,46,9,55,526,Ollie Watkins - 14,Emiliano Martínez,,52.9,52.9,0.1,0
+Premier League,M,ENG,2021,Brighton,team,16,38,9,14,15,40,46,-6,41,523,Neal Maupay - 8,Robert Sánchez,,51.6,37.7,13.9,0.37
+Premier League,M,ENG,2021,Burnley,team,17,38,10,9,19,33,55,-22,39,178,Chris Wood - 12,Nick Pope,,39.9,57.6,-17.7,-0.47
+Premier League,M,ENG,2021,Chelsea,team,4,38,19,10,9,58,36,22,67,526,Jorginho - 7,Edouard Mendy,→ UEFA Champions League via league finish,64,32.8,31.2,0.82
+Premier League,M,ENG,2021,Crystal Palace,team,14,38,12,8,18,41,66,-25,44,447,Wilfried Zaha - 11,Vicente Guaita,,32.4,57.5,-25,-0.66
+Premier League,M,ENG,2021,Everton,team,10,38,17,8,13,47,48,-1,59,368,Dominic Calvert-Lewin - 16,Jordan Pickford,,47.1,52,-4.9,-0.13
+Premier League,M,ENG,2021,Fulham,team,18,38,5,13,20,27,53,-26,28,211,Bobby Reid - 5,Alphonse Areola,Relegated,41.3,52.9,-11.7,-0.31
+Premier League,M,ENG,2021,Leeds United,team,9,38,18,5,15,62,54,8,59,421,Patrick Bamford - 17,Illan Meslier,,57.5,62.9,-5.4,-0.14
+Premier League,M,ENG,2021,Leicester City,team,5,38,20,6,12,68,50,18,66,421,Jamie Vardy - 15,Kasper Schmeichel,→ UEFA Europa League via cup win,56,47.7,8.3,0.22
+Premier League,M,ENG,2021,Liverpool,team,3,38,20,9,9,68,42,26,69,837,Mohamed Salah - 22,Alisson,→ UEFA Champions League via league finish,72.6,45.3,27.3,0.72
+Premier League,M,ENG,2021,Manchester City,team,1,38,27,5,6,83,32,51,86,526,İlkay Gündoğan - 13,Ederson,→ UEFA Champions League via league finish,73.3,31.4,42,1.1
+Premier League,M,ENG,2021,Manchester Utd,team,2,38,21,11,6,73,44,29,74,526,Bruno Fernandes - 18,David de Gea,→ UEFA Champions League via league finish,60.2,42.2,18,0.47
+Premier League,M,ENG,2021,Newcastle Utd,team,12,38,12,9,17,46,62,-16,45,526,Callum Wilson - 12,Karl Darlow,,41,54,-13,-0.34
+Premier League,M,ENG,2021,Sheffield Utd,team,20,38,7,2,29,20,63,-43,23,263,David McGoldrick - 8,Aaron Ramsdale,Relegated,31.4,62.4,-31,-0.82
+Premier League,M,ENG,2021,Southampton,team,15,38,12,7,19,47,68,-21,43,526,Danny Ings - 12,Alex McCarthy,,42.4,54.2,-11.8,-0.31
+Premier League,M,ENG,2021,Tottenham,team,7,38,18,8,12,68,45,23,62,632,Harry Kane - 23,Hugo Lloris,→ UEFA Europa Conference League via league finish 1,54.5,49.5,5,0.13
+Premier League,M,ENG,2021,West Brom,team,19,38,5,11,22,35,76,-41,26,283,Matheus Pereira - 11,Sam Johnstone,Relegated,33.8,67.7,-34,-0.89
+Premier League,M,ENG,2021,West Ham,team,6,38,19,8,11,62,47,15,65,632,"Tomáš Souček, Michail Antonio - 10",Łukasz Fabiański,→ UEFA Europa League via league finish,53.9,48.3,5.6,0.15
+Premier League,M,ENG,2021,Wolves,team,13,38,12,9,17,36,52,-16,45,237,"Rúben Neves, Pedro Neto - 5",Rui Patrício,,39.9,45.8,-6,-0.16
